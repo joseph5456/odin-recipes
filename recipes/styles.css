@@ -1,0 +1,32 @@
+.Heading1 {
+    background-color: aqua;
+    font-size: 50px;
+    text-align: center;
+}
+
+.georgiaFont {
+    font-family: "Georgia" sans-serif;
+}
+
+
+.listSize {
+    font-size: 25px;
+    background-color:darkslategray;
+    color:white;
+}
+
+.CheeseTitle {
+    background-color: yellow;
+    text-align: center;
+}
+
+.GuacamoleTitle {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.PizzaTitle {
+    background-color: crimson;
+    text-align: center;
+    color:white;
+}
